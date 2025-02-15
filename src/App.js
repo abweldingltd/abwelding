@@ -81,8 +81,8 @@ function App() {
                 <FontAwesomeIcon icon={faAnglesRight} />
               </div>
               <div className="content">
-                <span className='title'>SOME TITLE HERE</span>
-                <span className='text'>SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE</span>
+                <span className='title'>Professional Engineers (If Needed)</span>
+                <span className='text'><br/>We involve professional engineers for projects requiring specialized design or certification. Rely on us for expert guidance, compliance, and quality assurance.</span>
               </div>
             </div>
             <div className="each_left_third_section">
@@ -90,8 +90,8 @@ function App() {
                 <FontAwesomeIcon icon={faAnglesRight} />
               </div>
               <div className="content">
-                <span className='title'>SOME TITLE HERE</span>
-                <span className='text'>SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE</span>
+                <span className='title'>Structural Steel: CWB Certified Division 2</span>
+                <span className='text'><br/>We’re CWB Certified Division 2, ensuring top-quality, code-compliant structural steel welding. Trust our precision, safety standards, and decades of industry experience.</span>
               </div>
             </div>
             <div className="each_left_third_section">
@@ -99,8 +99,8 @@ function App() {
                 <FontAwesomeIcon icon={faAnglesRight} />
               </div>
               <div className="content">
-                <span className='title'>SOME TITLE HERE</span>
-                <span className='text'>SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE SOME TEXT HERE</span>
+                <span className='title'>Call or Email for an Estimate (Winnipeg & Surrounding Areas)</span>
+                <span className='text'><br/>Contact us for a free estimate in Winnipeg and beyond. Call +1 (204) 999-1900 or email ab.welding@hotmail.com—let’s bring your project to life.</span>
               </div>
             </div>
           </div>
@@ -109,8 +109,8 @@ function App() {
               <span className='title'>No Project Too Big or Too Small</span>
             </div>
             <div className="bottom_right_third_section">
-              <span className='text'>Our construction company specializes in delivering high-quality projects tailored to your needs. With a focus on precision and attention to detail, we ensure every aspect of your project is completed to the highest standards. From concept to completion, our team of experts handles every step of the construction process, ensuring efficiency and excellence throughout.</span>
-              <span className='text'>Our construction company specializes in delivering high-quality projects tailored to your needs. With a focus on precision and attention to detail, we ensure every aspect of your project is completed to the highest standards. From concept to completion, our team of experts handles every step of the construction process, ensuring efficiency and excellence throughout.</span>
+              <span className='text'>Our welding company is committed to delivering exceptional results designed around your specific needs. By blending industry-leading expertise with meticulous attention to detail, we ensure each phase of the project meets the highest standards. From initial planning to the final touches, our skilled professionals work seamlessly to provide efficient and remarkable outcomes.</span>
+              <span className='text'>Whether you’re embarking on a residential remodel or a large-scale commercial build, our team offers comprehensive solutions every step of the way. We prioritize clear communication, streamlined processes, and uncompromising quality. Trust us to handle all aspects of your construction project, delivering superior craftsmanship and peace of mind from start to finish.</span>
             </div>
           </div>
         </div>
