@@ -307,7 +307,7 @@ function App() {
           </a>
         </div>
       </div>
-      <FloatingWhatsApp phoneNumber='2048819527' accountName='AB Welding' avatar={logo} />
+      <FloatingWhatsApp phoneNumber='2049991900' accountName='AB Welding' avatar={logo} />
     </div>
   );
 }
