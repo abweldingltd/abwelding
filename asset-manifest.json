@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ef63e8d.css",
-    "main.js": "/static/js/main.12a17b2f.js",
+    "main.css": "/static/css/main.445546a8.css",
+    "main.js": "/static/js/main.4701b615.js",
     "static/media/CR9.PNG": "/static/media/CR9.2d2c730f09f074162336.PNG",
     "static/media/CR10.PNG": "/static/media/CR10.03506661a1e0276b7a64.PNG",
     "static/media/CSafetyR1.jpeg": "/static/media/CSafetyR1.ae49f3287b32ce23df60.jpeg",
@@ -44,13 +44,13 @@
     "static/media/CR5.jpeg": "/static/media/CR5.ebcfe5a470deacaf623f.jpeg",
     "static/media/Concrete1.WEBP": "/static/media/Concrete1.1ec0cfee1739303a3b67.WEBP",
     "static/media/PressurePipe1.JPEG": "/static/media/PressurePipe1.3f7c2383f782b0eaba75.JPEG",
-    "static/media/LogoNew.jpg": "/static/media/LogoNew.7bb3ca824d39a44bbe9f.jpg",
+    "static/media/LogoNew2.jpg": "/static/media/LogoNew2.56022ccf30f347005d8f.jpg",
     "index.html": "/index.html",
-    "main.1ef63e8d.css.map": "/static/css/main.1ef63e8d.css.map",
-    "main.12a17b2f.js.map": "/static/js/main.12a17b2f.js.map"
+    "main.445546a8.css.map": "/static/css/main.445546a8.css.map",
+    "main.4701b615.js.map": "/static/js/main.4701b615.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ef63e8d.css",
-    "static/js/main.12a17b2f.js"
+    "static/css/main.445546a8.css",
+    "static/js/main.4701b615.js"
   ]
 }
